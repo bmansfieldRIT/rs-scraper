@@ -1,0 +1,6 @@
+scrape xkcd comics for word occurences, make graphs from data (numpy)
+
+how i did it:
+used pip to install
+     Beautiful soup (bs4)
+     Requests (requests)

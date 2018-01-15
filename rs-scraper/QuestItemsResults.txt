@@ -1,0 +1,519 @@
+1: H.a.m. cloak
+, Steel Bar
+, Goutweed
+, Monkey corpse
+, Ring mould
+, Cheeses
+, Harpoon
+, Ranarr potion (unf)
+, Ammo mould
+, Gorilla greegree
+, Bread
+, Enchanted key
+, Pot lid
+, Oak shieldbow
+, Mist runes
+, Dramen staff
+, Unfired bowl
+, Tatty larupia
+, Chaos runes
+, Kebab
+, Clean irit
+, Gold charm
+, Primed bars
+, Onion
+, Cut jade
+, Hard leather
+, Crossbow
+, Raw cod
+, Wizard's mind bomb
+, Cut diamond
+, Invitation box
+, Priest gown (top)
+, Oak logs
+, Ghost's Ahoy
+, Rubies
+, Bullseye lanterns
+, Agility potion(4)
+, Sapphire amulet
+, Magic secateurs
+, Ashes
+, Bullseye lantern
+, Magic longbow
+, Slimy eel
+, Sextant
+, Food and Combat equipment (preferably Magic).
+, Clay ring
+, Clean ardrigal
+, Chocolate bar
+, Mahogany plank
+, Tuna
+, Desert disguise
+, Ugthanki dung
+, Bear fur
+, Seaweed
+, Priest gown (bottom)
+, Pickaxe
+, Al kharid flyer
+, Jug of wine
+, Lumbridge Swamp Dungeon
+, Large pouch
+, Ghostspeak Amulet
+, Larupia
+, Tin ores
+, Magic watering can
+, Bat bones
+, Bird snare
+, Cosmic rune)
+, Purple dye
+, Unlit candle
+, Chocolate cake
+, Commorb
+, Magic/Ranged attack method.
+, Black bead
+, Mithril Bars
+, Cramulet
+, 5 coins, Earmuffs
+, Mind runes
+, Camel mask
+, Marigold seed
+, Raw chompies
+, Leather boots
+, Troll Stronghold
+, Spirit wolf pouches
+, 14 free inventory spaces.
+, Blood runes
+, Crimson charm
+, Super antifire
+, Nettle tea
+, Blue
+, Plant cures
+, Yellow bead
+, Garlic
+, Raw crayfish
+, Steel longsword
+, Bananas
+, Desert wyrm pouches
+, Lockpick
+, Cosmic runes
+, Lantern
+, Chaos talisman
+, Steel mace
+, Lumbridge Swamp Caves
+, Smith
+, Mind Rune
+, Light source (preferably a lantern), Plantpot
+, Tiara
+, Spirit scorpion pouches
+, Waterskin (4)
+, Emerald
+, Mort myre fungus
+, Slayer helmet
+, Uncut opal
+, Bronze nail
+, Vials of water
+, Fishbowl helmet
+, Blurite ore
+, Dragon bones
+, Polished buttons
+, Jogre bones
+, Regular bones
+, Death runes
+, Jug of water
+, Antipoison
+, Cooked rabbit
+, Ring of Charos
+, Bolts of cloth
+, Pouch
+, Karamjan rum (Sliced banana)
+, Ground mud rune
+, Unicorn horn dust
+, Toadflax potion (unf)
+, Slashed book
+, Chart
+, Earth
+, Progress hat
+, coins
+, Yanille
+, Vials
+, Bucket of sand
+, Fishbowl Helmet, Flamtaer hammer
+, Cure Plant
+, Combat equipment and 12 free inventory spaces.
+, Weeds
+, Silverlight
+, Mirror shield
+, White berries
+, Mind talisman
+, Beer glass
+, Fire Rune
+, Cake tin
+, Macaw pouch
+, Astral rune
+, Crystal bow
+, Rock climbing boots
+, 20 logs (of the same kind).
+, Air Rune
+, Bronze wires
+, Axe
+, Clean rogue's purse
+, Achey tree log
+, Plant cure
+, Tinderboxes
+, Cabbage seeds
+, Pots
+, Magic log
+, Bucket of wax
+, Sacred oil(1)
+, Any hatchet, Red bead
+, Orange dye
+, Salmon
+, H.a.m. boots
+, Toad crunchies
+, White bead
+, 'perfect ring'
+, Box trap
+, Tai Bwo Wannai Clean Up
+, Lava runes
+, Bag of salt
+, H.a.m. gloves
+, wicked hood
+, Red dyes
+, Cheese
+, Clockwork suit
+, Flighted ogre arrows
+, Bronze hatchets
+, Dragon pickaxe
+, Ice gloves
+, Strip of cloth
+, Spirit shards
+, Mithril nails
+, Armor and a weapon.
+, An additional 25 logs.
+, Barley malts
+, Enchanted gem
+, Bucket of slime
+, Jennica's ring
+, Yellow dyes
+, Spiny helmet
+, Super defence potion (3)
+, Cut emerald
+, Enchanted water tiara
+, Stripy feathers
+, Dusty key
+, Ring of Charos (a)
+, Bags of  salt
+, H.a.m. logo
+, Mithril 2h sword
+, Ring of charos (a) (activated at the start of the Garden of Tranquility quest)
+, Super composts
+, Log
+, Oak Logs
+, Any Pickaxe.
+, Swordfish
+, Candle
+, normal logs
+, Watch
+, Bones
+, Maple
+, 60 Coins.
+, Steel dagger
+, Insulated boots
+, Small crystal seed
+, Rune bar
+, Combat equipment and Food.
+, Seal of passage
+, charter a ship
+, Antipoisons
+, Monkfish
+, Knives
+, Soul rune
+, Potato
+, Anti-Dragon Shield
+, Gardening trowel
+, Druid pouch
+, Law
+, Book o'piracy
+, Shrimps
+, Blessed
+, Armor and a Weapon
+, Glarial's pebble
+, Ring of Visibility
+, Mind rune
+, Orange
+, Staff
+, Onions
+, Yew logs
+, Cut ruby
+, Raw sea turtle
+, Steel spear
+, Mithril bar
+, Pigeon cages
+, Potatoes (10)
+, Teak planks
+, Small fishing net
+, Raw manta ray
+, Woad leaves
+, Shears
+, Clean kwuarm
+, Empty sacks
+, Tinderbox (Toolbelt works), Crystal trinket
+, Lunar Staff
+, Clockwork Mechanism
+, Body runes
+, Agility potions(2)
+, H.a.m. robe
+, Chocolate dust
+, Fly fishing rod
+, Cut sapphire
+, Beers
+, Pickaxe (any kind).
+, Cut red topaz
+, Mine
+, Masked earmuffs
+, Antifire potion
+, Blurite sword
+, Monkey bones
+, Green charm
+, Diving apparatus
+, Sapphire lantern
+, Attack
+, Blue dyes
+, Full waterskins
+, Snape grass
+, Limestone
+, Silver sickle(b)
+, Ava's accumulator
+, Slayer gloves
+, Potato seeds
+, Raw sardine
+, Oak Planks
+, Raw chickens
+, Steel bar
+, A light source.
+, Relicym's balm(4)
+, Raw potato
+, Steel swords
+, White apron
+, Ogre bow
+, Cabbage
+, Mithril ores
+, Water Rune
+, bananas
+, Training bow
+, Black platelegs
+, Soft Clay
+, Pirate boots
+, H.a.m. shirt
+, Tool Leprechaun
+, Bass
+, Antipoisons (3)
+, Snapdragon seed
+, Mackerels
+, plateskirt
+, Excalibur
+, Chaos tiara
+, Limpwurt roots
+, Goblin mail
+, Tarnished key
+, Achey tree logs
+, Willow branches
+, Steel warhammer
+, Vodka
+, Eye of Newt, Raw tuna
+, Mahogany planks
+, Cat speak amulet
+, Mithril Bar
+, Port Phasmatys
+, Magic logs
+, Monkey skull
+, Crystal saw
+, Some Cooked fish (Any).
+, Blue charm
+, Clean tarromin
+, Necklace mould
+, Facemask
+, M'amulet mould
+, platelegs
+, Bronze wire
+, Fire rune
+, Emeralds
+, M'speak amulet
+, Earth Rune
+, New key
+, H.a.m. hood
+, Nuff's certificate
+, Ring of charos
+, Pineapple chunks
+, Plant pot (filled)
+, Ogres
+, Cup of tea
+, Onion seeds
+, Mithril hatchet
+, Runes and a staff to cast a Fire wave spell.
+, Green dye
+, Glarial's amulet
+, Earth talismans
+, Ring of life
+, Red spiders' eggs
+, Raw shark
+, Ogre bellows
+, Spice
+
+2: Elemental bars
+, Catspeak amulet(e)
+, Bronze bars
+, Water rune
+, Anti-dragon shield
+, Holy symbol
+, Fire runes
+, Boots
+, Clean guam
+, Blue dye
+, Silver sickle
+, Wicked hood
+, Gold bar
+, Law runes
+, Catspeak amulet (e)
+, Desert robe
+, Bronze helm
+, Bronze bar
+, Ranged
+, Earth rune
+, Gloves
+, Sapphire
+, Ring of charos (a)
+, Desert shirt
+, Lunar staff
+, Eucalyptus logs
+, Ball of wool
+, Red dye
+, Bucket of sap
+, Dwellberries
+, Catspeak amulet
+, Cloak
+, Cut opal
+, Buckets
+, Elemental talisman
+, Waterskins
+, Desert boots
+, Cake
+, Trousers
+, Fishing bait
+, Oak planks
+, Redberries
+, Cosmic rune
+, Druid
+, Beer
+, Water
+, Rune
+, Normal planks
+, Lantern lens
+, Buckets of water
+, Leather
+, Black platebody
+, Air
+, Clean harralander
+, Secateurs
+, Iron chainbody
+, Rune hatchet
+, Sapphires
+, Desert
+, Bucket of water
+, Gold bars
+, Maple logs
+, Steel bars
+, Compost
+, Gas Mask
+, Fire
+, Magic
+, Bowl
+, Black full helm
+, Coin
+, Bow string
+, Top
+, Death rune
+, Armor and a Weapon.
+, Clean snake weed
+, Lobster pot
+, Mining
+, Unpowered orb
+, Mith grapple
+
+3: Battered key
+, Clean marrentill
+, Pure
+, Pure essence
+, 
+, Rune pickaxe
+, Rune essence
+, None.
+, Wolf bones
+, Redberry pie
+, Willow logs
+, Armor and Weapon.
+, Iron bars
+, Watering can
+, Saw
+, Silver bar
+, Dramen
+, Charcoal
+, Molten glass
+, Ghosts Ahoy
+
+4: Earth runes
+, Logs
+, Air runes
+, Swamp tar
+, Seed dibber
+, Wheat
+, Swamp paste
+, Yellow dye
+, Feathers
+, Water runes
+, Papyrus
+, Steel nails
+, Iron bar
+, Bucket
+
+5: Leather gloves
+, Soft clay
+, Climbing boots
+, Armor, Rake
+, Plank
+, Air rune
+, Law rune
+, Ropes
+, Fishing rod
+
+6: Bucket of milk
+, Vial
+, Needle
+, Silk
+
+7: Ecto-tokens
+, Thread
+, Vial of water
+
+8: Planks
+
+9: Empty pot
+
+10: Coal
+
+11: Pestle and mortar
+, Chisel
+
+12: Knife
+, Ghostspeak amulet
+
+17: Rope
+
+19: Spade
+
+23: Coins
+
+24: Tinderbox
+
+26: Hammer
+

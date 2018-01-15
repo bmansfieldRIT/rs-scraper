@@ -1,0 +1,1548 @@
+Tinderbox: 1
+Hatchet: 1
+Logs: 1
+Buttons: 1
+Ecto-token: 1
+Ghostspeak Amulet: 1
+Hammer: 1
+Hard Leather: 1
+Holy Symbol: 1
+Iron Bar: 1
+Amulet of Glory: >
+Draynor: >
+Al
+Kharid: >
+Ectophial: >
+Games Necklace: >
+Burthorpe: >
+Bulls-eye Lantern: >
+Tinderbox: >
+Achey Tree Logs: 8
+Bird Snare: 8
+Box Trap: 8
+Eucalyptus Logs: 8
+Knife: 8
+Logs: 8
+Tinderbox: 8
+Wolf Bones: 8
+Empty Pot: 1
+Gardening Trowel: 1
+Plant Pot: 1
+Secateurs: 1
+Soft Clay: 1
+Spade: 1
+Coins: 1
+Ring of Charos (a): 1
+Ammo Mould: 1
+Coins: 1
+Dwarven Stout: 1
+Gold Bar: 1
+Hammer: 1
+Pickaxe: 1
+Chisel: 1
+Feather: 1
+Hatchet: 1
+Knife: 1
+Wolf Bones: 1
+Dramen Staff: 1
+Ring of Dueling: 1
+Doctors' Gown: 1
+Priest Gown (bottom): 1
+Priest Gown (top): 1
+Bronze Pickaxe: 1
+Plank: 1
+Rope: 1
+Seal of Passage: 1
+Tinderbox: 1
+Enchanted Lyre: >
+Prayer Potions: >
+Hatchet: 1
+Explorer's Ring 3: 1
+Onion: 1
+Wheat: 1
+Rune Pickaxe: 1
+Hatchet: >
+Logs: >
+Hammer: 1
+Knife: 1
+Mahogany Plank: 1
+Mithril: 1
+Saw: 1
+Charter Ships: >
+Lletya Teleport Crystal: >
+Amulet of Glory: >
+Antipoison: >
+Bucket of Water: 1
+Ice Gloves: 1
+Ectophial: 1
+Feather: 5
+Hammer: 5
+Leather: 5
+Mahogany Plank: 5
+Oak Plank: 5
+Plank: 5
+Raw Cod: 5
+Silk: 5
+Spade (cannot be on toolbelt): 5
+Steel Nails: 5
+Swamp Tar: 5
+Dramen Staff: 1
+Enchanted Lyre: 1
+Molten Glass: 1
+Ring of Charos (a): 1
+Raw Cod: 1
+Tinderbox: 1
+Sharks: >
+Monkfish: >
+Prayer Potions: >
+Shantay Passes: >
+Bucket: 1
+Empty Pot: 1
+Coins: 0
+Ghostspeak Amulet: 0
+Needle: 0
+Silver Bar: 0
+Spade: 0
+Thread: 0
+Climbing Boots: 1
+Eadgar's Ruse: 1
+Dwellberries: 1
+Insulated Boots: 1
+Macaw Pouch: 1
+Mith Grapple: 1
+Pickaxe: 1
+Ring of Life: 1
+Camulet: 1
+Coins: 1
+Magic Carpet Rides: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Enchanted Water Tiara: 1
+Fire Rune: 1
+Games Necklace: 1
+Knife: 1
+Law Rune: 1
+Ring of Duelling: 1
+Super Restore Potion: 1
+Waterskin: 1
+Hammer: 1
+Nails: 1
+Plank: 1
+Energy Potions: 1
+Knife: 1
+Silver Sickle: 1
+Skills Necklace: 1
+Fishing Guild: 1
+Artefact: 0
+Pyramid Plunder: 0
+Bronze: 0
+Ugthanki Dung: 0
+Desert Robe: 1
+Desert Shirt: 1
+Logs: 1
+Relicym's Balm: 1
+Salve Amulet: 1
+Waterskin: 1
+H.A.M Logo: 2
+H.A.M. Boots: 2
+H.A.M. Cloak: 2
+H.A.M. Gloves: 2
+H.A.M. Hood: 2
+H.A.M. Robe: 2
+H.A.M. Shirt: 2
+Rope: 2
+Spiny Helmet: 1
+Tinderbox: 1
+Blurite Ore: 1
+Pickaxe: 1
+Spade: 1
+Games Necklace: 1
+Redberry Pie: 1
+Ashes: 1
+Blood Rune: 1
+Bones: 1
+Cake: 1
+Chocolate Cake: 1
+Charcoal: 1
+Climbing Boots: 1
+Coins: 1
+Face Mask: 1
+Gas Mask: 1
+Masked Earmuffs: 1
+Garlic: 1
+Ice Gloves: 1
+Lockpick: 1
+Magic Logs: 1
+Molten Glass: 1
+Pestle and Mortar: 1
+Silver Bar: 1
+Spice: 1
+Gnome Spice: 1
+Steel Bar: 1
+Tinderbox: 1
+Desert Robe: 1
+Desert Shirt: 1
+Prayer Potion: 1
+Ring of Charos (a): 1
+Waterskin: 1
+Bow String: 1
+Large Pouch: 1
+Mithril 2h Sword: 1
+Cup of Tea: 1
+Pestle and Mortar: 1
+Rope: 1
+Tinderbox: 1
+Vial: 1
+Beer: 1
+Black Mushroom: 1
+Cabbage: 1
+Coins: 1
+Darklight: 1
+Fire Rune: 1
+Lockpick: 1
+Nature Rune: 1
+Onion: 1
+Ring of Life: 1
+Rotten Tomato: 1
+Tin Ore: 1
+Vial: 1
+Coins: 1
+Beer: 1
+Black Mushroom: 1
+Cabbage: 1
+Rotten Tomato: 1
+Vial: 1
+Fire Rune: 4
+Nature Rune: 4
+Tin Ore: 4
+Vial: 4
+Darklight: 1
+Lockpick: 1
+Onion: 1
+Ring of Life: 1
+Vial: 1
+Ava's Accumulator: 1
+Banana: 1
+Bolt of Cloth: 1
+Coins: 1
+Ghostspeak Amulet: 1
+Hammer: 1
+Kitten: 1
+Cat: 1
+Knife: 1
+M'speak amulet: 1
+Ring of Charos (a): 1
+Rope: 1
+Ancient Magicks: 1
+Saw: 1
+Teak Plank: 1
+Antipoison: 1
+Coins: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Prayer Potion: 1
+Ring of Duelling: 1
+Ape Atoll: 1
+Waterskin: 1
+Coins: 1
+Coins: 1
+Anti-Dragon Shield: 1
+Hammer: 1
+Lobster Pot (cannot be on toolbelt): 1
+Maze Key: 1
+Plank: 1
+Silk: 1
+Steel Nails: 1
+Wizard's Mind Bomb: 1
+Lobsters: >
+Astral Rune: 1
+Goutweed: 1
+Hammer: 1
+Pestle and Mortar: 1
+Tinderbox: 1
+Restore Potion: 1
+Chisel: 1
+Fishing Rod: 1
+Camelot: >
+Ardougne: >
+Falador: >
+Clean Ranarr: 1
+Grain: 1
+Knife: 1
+Logs: 1
+Pestle and Mortar: 1
+Pineapple: 1
+Raw Chicken: 1
+Tinderbox: 1
+Vial of Water: 1
+Vodka: 1
+Ardougne Teleport: 1
+Games Necklace: 1
+Noose Wand: 1
+Swamp Tar: 1
+Yellow Dye: 1
+Ardougne: >
+Spirit Tree: >
+Ring of Duelling: >
+Varrock: >
+Rune Pickaxe: 1
+Coal: 4
+Hammer: 4
+Knife: 4
+Leather: 4
+Needle: 4
+Pickaxe: 4
+Thread: 4
+Battered Key: >
+Coal: >
+Hammer: >
+Pickaxe: >
+Slashed Book: >
+Battered Key: 1
+Elemental Bar: 1
+Hammer: 1
+Soft Clay: 1
+Air Rune: 8
+Chisel: 8
+Earth Rune: 8
+Fire Rune: 8
+Hammer: 8
+Knife: 8
+Primed Bars: 8
+Elemental Metal: 8
+Water Rune: 8
+Cake: 1
+Candle: 1
+Chisel: 1
+Coal: 1
+Logs: 1
+Maple Logs: 1
+Oak Logs: 1
+Pickaxe: 1
+Soft Clay: 1
+Tinderbox: 1
+Willow Logs: 1
+Desert Boots: 1
+Desert Disguise: 1
+Desert Robe: 1
+Desert Shirt: 1
+Soft Clay: 1
+Camel Mask: 1
+Staff of Air: 1
+Waterskins: 1
+Enchanted Water Tiara: 1
+Ball of Wool: 1
+Bowl: 1
+Candle: 1
+Logs: 1
+Papyrus: 1
+Red Dye: 1
+Potatoes: 1
+Secateurs: 1
+Silk: 1
+Tinderbox: 1
+Yellow Dye: 1
+Amulet of Glory: 1
+Logs: 1
+Spotted Cape: 1
+Boots of Lightness: 1
+Fish Food: 1
+Grimy Key: 1
+Oil Can: 1
+Poison: 1
+Pressure Gauge: 1
+Rubber Tube: 1
+Spade: 1
+Bucket: 1
+Hammer: 1
+Knife: 1
+Maple Logs: 1
+Oak Logs: 1
+Pestle and Mortar: 1
+Saw: 1
+Dramen Staff: 1
+Lunar Staff: 1
+Ghostspeak Amulet: 1
+Random items: 1
+Secateurs: 1
+Spade: 1
+Dramen Staff: 1
+Pestle and Mortar: 1
+Vial of Water: 1
+Bucket of Milk: >
+Dramen: >
+Lunar: >
+Antipoison: 1
+Bass: 1
+Necklace Mould: 1
+Pickaxe: 1
+Ring Mould: 1
+Ruby: 1
+Salmon: 1
+Shrimps: 1
+Swordfish: 1
+Tuna: 1
+Ardougne: >
+Varrock: >
+Camelot: >
+Bucket: 1
+Coins: 1
+Desert Disguise: 1
+Waterskin: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Coins: 5
+Prayer Potion: 3
+Coins: 0
+Fishing Rod: 0
+Garlic: 0
+Red Vine Worm: 0
+Spade: 0
+Barley Malt: 2
+Beer Glass: 2
+Bucket of Water: 2
+Coins: 2
+Rake: 2
+Seed Dibber: 2
+Lobster: 3
+Monkfish: 3
+Shark: 3
+Prayer Potion: 3
+Bronze Nails: 1
+Hammer: 1
+Hatchet: 1
+Knife: 1
+Needle: 1
+Pickaxe: 1
+Raw Tuna: 1
+Rope: 1
+Thread: 1
+Yak-hide Armour (bottom): 1
+Yak-hide Armour (top): 1
+Tin Ore: 6
+Coal: 6
+Mithril: 6
+Prayer Potion: 6
+Beer: 1
+Cabbage: 1
+Coins: 1
+Hatchet: 1
+Knife: 1
+Onion: 1
+Potato: 1
+Raw Shark: 1
+Tinderbox: 1
+Logs: 8
+Mirror Shield: 8
+Tinderbox: 8
+Antipoison: 1
+Digsite Pendant: 1
+Enchanted Lyre: 1
+Strength: >
+Slayer: >
+hunter: >
+Freeing Awowogei subquest: >
+Recipe for Disaster: >
+anti-dragonfire shield: >
+elemental: >
+mind: >
+Witchwood icon: >
+Leaf bladed sword: >
+leaf bladed spear,: >
+broad arrows: >
+Cabbage Seed: 3
+Chisel: 3
+Compost: 3
+Fishing Rod (cannot be on toolbelt): 3
+Gardening Trowel: 3
+Marigold Seed: 3
+Onion Seed: 3
+Pestle and Mortar: 3
+Plant Cure: 3
+Plant Pot: 3
+Rake: 3
+Ring of Charos: 3
+Rune Essence: 3
+Secateurs: 3
+Seed Dibber: 3
+Spade: 3
+Watering Can: 3
+Amulet of Glory: 1
+Ectophial: 1
+Bucket of Milk: 1
+Coins: 1
+Raw Sardine: 1
+Blue Dye: 3
+Bones: 3
+Bowl of Water: 3
+Bucket: 3
+Bucket of Milk: 3
+Coins: 3
+Empty Pot: 3
+Ghostspeak Amulet: 3
+Knife: 3
+Logs: 3
+Needle: 3
+Nettle Tea: 3
+Oak Longbow: 3
+Red Dye: 3
+Silk: 3
+Spade: 3
+Thread: 3
+Tinderbox: 3
+Yellow Dye: 3
+Air Rune: 1
+Coal: 1
+Coins: 1
+Iron Bar: 1
+Law Rune: 1
+Logs: 1
+Arctic Pine Logs: 1
+Pickaxe: 1
+Redberry Pie: 1
+Knight's Sword: 1
+Sapphire: 1
+Tinderbox: 1
+ores: 1
+bars: 1
+Dramen Staff: 1
+Clay: 1
+Mithril: 1
+Enchanted Lyre: 1
+Explorer's Ring 3: 1
+Clean Irit: 1
+Cosmic Rune: 1
+Earth Rune: 1
+Pestle and Mortar: 1
+Pickaxe: 1
+Plank: 1
+Pole: 1
+Vial: 1
+Energy Potion: 3
+Blue Dye: 1
+Coins: 1
+Goblin Mail: 1
+Red Dye: 1
+Yellow Dye: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Papyrus: 1
+Pestle and Mortar: 1
+Soft Clay: 1
+Vial: 1
+Waterskin: 1
+Chisel: 1
+Hammer: 1
+Knife: 1
+Ring of Duelling: 1
+Ardougne Teleport: 1
+Ardougne Teleport: 1
+Ring of Duelling: 1
+Bear Fur: 0
+Gray Wolf Fur: 0
+Diving Apparatus: 0
+Fishbowl Helmet: 0
+Hammer: 0
+Holy Symbol: 0
+Nails: 0
+Plank: 0
+Ring of Charos: 0
+Amulet of Glory: 1
+Ectophial: 1
+Monkfish: 1
+Clean Tarromin: 2
+Hatchet: 2
+Leather Gloves: 2
+Seed Dibber: 2
+Vial of Water: 2
+Watering Can: 2
+Prayer Potion: 4
+Beer: 1
+Bucket of Sand: 1
+Coins: 1
+Earth Rune: 1
+Lantern Lens: 1
+Leather Gloves: 1
+Redberries: 1
+Vial: 1
+White Berries: 1
+Amulet of Glory: 1
+Chisel: 1
+Waterskin: 1
+Mithril Bar: 1
+Soft Clay: 1
+Arrows: 1
+Black Full Helm: 1
+Black Platebody: 1
+Black Platelegs: 1
+Bow: 1
+Clean Harralander: 1
+Fishing Bait: 1
+Fishing Rod (cannot be on toolbelt): 1
+Pickaxe: 1
+Vial of Water: 1
+Anti-Dragon Shield: 1
+Antipoison: 1
+Dusty Key: 1
+Excalibur: 1
+Explorer's Ring 1: 1
+Air Rune: 1
+Arrow: 1
+Earth Rune: 1
+Fire Rune: 1
+Hammer: 1
+Molten Glass: 1
+Plank: 1
+Steel Nails: 1
+Swamp Tar: 1
+Sword: 1
+Tinderbox: 1
+Water Rune: 1
+Prayer Potion: 8
+Needle: 1
+Penguin Suit: 1
+Silk: 1
+Steel Bar: 1
+Plank: 1
+Plank: 1
+Silk: 1
+Thread: 1
+Enchanted Lyre: 1
+Lunar Staff: 1
+Dramen Staff: 1
+Bag of Salt: 1
+Bucket of Sap: 1
+Coins: 1
+Ghostspeak Amulet: 1
+Kitten: 1
+Cat: 1
+Linen: 1
+Tinderbox: 1
+Willow Logs: 1
+Antipoison: 2
+Desert Boots: 2
+Desert Robe: 2
+Desert Shirt: 2
+Knife: 2
+Shantay Pass: 2
+Waterskin: 2
+Black Bead: 1
+Red Bead: 1
+White Bead: 1
+Yellow Bead: 1
+Bronze Hatchet: 0
+Bucket: 0
+Coal: 0
+Cosmic Rune: 0
+Hammer: 0
+Mackerel: 0
+Snail: 0
+Mithril Bar: 0
+Nail: 0
+Pickaxe: 0
+Plank: 0
+Rope: 0
+Sapphire: 0
+Silver Bar: 0
+Silver Sickle (b): 0
+Soft Clay: 0
+Spade: 0
+Steel Bar: 0
+Swamp Paste: 0
+Tinderbox: 0
+Water Rune: 0
+Amulet of Glory: 1
+Ectophial: 1
+Knife: 1
+Secateurs: 1
+Tinderbox: 1
+Dramen Staff: 1
+Lunar Staff: 1
+Coins: 5
+Druid Pouch: 5
+Hammer: 5
+Plank: 5
+Silver Sickle (b): 5
+Steel Dagger: 5
+Steel Mace: 5
+Steel Nails: 5
+Steel Sword: 5
+Steel Warhammer: 5
+Pickaxe: 1
+Mithril Bar: 6
+Pickaxe: 6
+Soft Clay: 6
+Air Rune: 1
+Black Full Helm: 1
+Black Platelegs: 1
+Black Plateskirt: 1
+Bronze Med Helm: 1
+Iron Chainbody: 1
+Law Rune: 1
+Camulet: 1
+Lockpick: 1
+Blurite Ore: 1
+Iron Bar: 1
+Pickaxe: 1
+Redberry Pie: 1
+Dramen Staff: 1
+Lunar Staff: 1
+Blue Dye: 1
+Clean Toadflax: 1
+Fishing Rod: 1
+Goblin Mail: 1
+Bullseye Lantern: 1
+Mining Helmet: 1
+Orange Dye: 1
+Pestle and Mortar: 1
+Purple Dye: 1
+Slimy Eel: 1
+Vial: 1
+Vial of Water: 1
+Yellow Dye: 1
+Amulet of Glory: 1
+Combat Bracelet: 1
+Skills Necklace: 1
+Tiny Elf Crystal: 1
+Teak Pyre Logs: 1
+Ancient Mace: 1
+Ectophial: 1
+Pickaxe: 1
+Vyrewatch Legs: 1
+Vyrewatch Shoes: 1
+Vyrewatch Top: 1
+Charcoal: 1
+Clean Snake Weed: 1
+Diamond: 1
+Earth Rune: 1
+Emerald: 1
+Gold Bar: 1
+Hammer: 1
+Jade: 1
+Law Rune: 1
+Lockpick: 1
+Machete: 1
+Mind Rune: 1
+Opal: 1
+Orb: 1
+Pickaxe: 1
+Rope: 1
+Ruby: 1
+Rune Hatchet: 1
+Sapphire: 1
+Soul Rune: 1
+Vial of Water: 1
+Gold Bars: >
+Fishing Bait: 1
+Potato: 1
+Raw Crayfish: 1
+Wheat: 1
+Hatchet: 1
+Knife: 1
+Pickaxe: 1
+Anti-Dragon Shield: 1
+Chisel: 1
+Mithril Bar: 1
+Oak Plank: 1
+Steel Bar: 1
+Clockwork: 1
+Monkfish: >
+Prayer Potions: >
+Air Talisman: 1
+Clean Guam: 1
+Clean Marrentill: 1
+Dramen Staff: 1
+Earth Talisman: 1
+Fire Talisman: 1
+Hammer: 1
+Hatchet: 1
+Needle: 1
+Pestle and Mortar: 1
+Pickaxe: 1
+Spade: 1
+Thread: 1
+Tinderbox: 1
+Water Talisman: 1
+Ecto-Tokens: 2
+Ghosts Ahoy: 2
+charter a ship: 2
+Port Phasmatys: 2
+Ghostspeak Amulet: 2
+Sapphire Amulet: 2
+Spade: 2
+Ectophial: 1
+Enchanted Lyre: 1
+Ring of Duelling: 1
+Bread: 1
+Bucket: 1
+Tinderbox: 1
+Al Kharid Flyer: 1
+Beer Glass: 1
+Empty Pot: 1
+Fire Rune: 1
+Grain: 1
+Hammer: 1
+Jug of Wine: 1
+Knife: 1
+Pestle and Mortar: 1
+Ring of Charos (a): 1
+Saw: 1
+Shantay Pass: 1
+Spice: 1
+Willow Logs: 1
+Amulet of Glory: 1
+Coins: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Dramen Staff: 1
+Lunar Staff: 1
+Prayer Potion: 1
+Falador Shield: 1
+Ring of Duelling: 1
+Waterskin: 1
+Jug of Water: 1
+Logs: 1
+Ball of Wool: 1
+Banana: 1
+Gold Bar: 1
+Monkey Bones: 1
+Monkey Corpse: 1
+Monkey Dentures: 1
+Amulet of Glory: 1
+Antipoison: 1
+Coins: 1
+Shark: 1
+Prayer Potion: 1
+Ring of Duelling: 1
+Super Energy Potions: 1
+Explorer's Ring (3): 1
+Gloves: 1
+Mystic Gloves: 1
+Slayer Gloves: 1
+Runecrafter Gloves: 1
+Lunar Gloves: 1
+Hatchet: 1
+Pickaxe: 1
+Plank: 1
+Rope: 1
+Spade: 1
+Bear Fur: 1
+Blue Dye: 1
+Bucket of Water: 1
+Coal: 1
+Feather: 1
+Green Dye: 1
+Leather: 1
+Magic Logs: 1
+Ogre Bellows: 1
+Red Dye: 1
+Silk: 1
+Yellow Dye: 1
+Antipoison: 5
+Stat Restore Potion: 5
+Super Stat Restore Potion: 5
+Chisel: 1
+Gas Mask: 1
+Items for Thorgel: 1
+Death Talisman: 1
+Death Tiara: 1
+Mourner Boots: 1
+Mourner Cloak: 1
+Mourner Gloves: 1
+Mourner Top: 1
+Mourner Trousers: 1
+Rope: 1
+Agility Potion: 3
+Holy Wrench: 3
+Prayer Potion: 3
+Super Restore Potion: 3
+Teleport Crystal (3): 3
+Empty Pot: 1
+Bucket: 1
+Climbing Boots: 1
+Machete: 1
+Plant Cure: 1
+Rake: 1
+Seed Dibber: 1
+Spade: 1
+Ugthanki Dung: 1
+Amulet of Glory: 1
+Antipoison: 1
+Games Necklace: 1
+Prayer Potion: 1
+Chisel: 1
+Hammer: 1
+Hatchet: 1
+Ghostspeak Amulet: 1
+Fire: 7
+Air: 7
+Blood: 7
+Pickaxe: 7
+Amulet of Glory: 1
+Shark: 1
+Prayer Potion: 1
+Ruby Bolts (e): 1
+Saradomin Brew: 1
+Super Restore Potion: 1
+Bronze Bar: 1
+Molten Glass: 1
+Plank: 1
+Antipoison: 1
+Ring of Duelling: 1
+Hatchet: 1
+Spade: 1
+Tinderbox: 1
+Catspeak Amulet (e): 1
+Coins: 1
+Emerald: 1
+Cabbage: 1
+Bronze Bar: 1
+Chisel: 1
+Clean Harralander: 1
+Clean Marrentill: 1
+Coins: 1
+Empty Pot: 1
+Hammer: 1
+Iron Bar: 1
+Logs: 1
+Steel Bar: 1
+Tinderbox: 1
+Vial of Water: 1
+Explorer's Ring 3: 1
+Spirit Terrorbird Pouch: 1
+Bull Ant Pouch: 1
+Jade: 1
+Opal: 1
+Pickaxe: 1
+Sapphire: 1
+Crystal Seed: 1
+Crystal Saw: 1
+Mith Grapple: 1
+Compost: 1
+Hammer: 1
+Nails: 1
+Plank: 1
+Saw: 1
+Watering Can: 1
+Amulet of Glory: 1
+Combat Bracelet: 1
+Coins: 0
+Spade: 0
+White Apron: 0
+Bucket of Milk: 1
+Bucket of Water: 1
+Chocolate Dust: 1
+Dwellberries: 1
+Picture of Elena: 1
+Rope: 1
+Snape Grass: 1
+Spade: 1
+Blue Charm: 1
+Crimson Charm: 1
+Gold Charm: 1
+Green Charm: 1
+Magic Logs: 1
+Mourner Boots: 1
+Mourner Cloak: 1
+Mourner Gloves: 1
+Mourner Top: 1
+Mourner Trousers: 1
+Pouch: 1
+Rune Bar: 1
+Spirit Shards: 1
+Super Defence Potion: 1
+Tiny Elf Crystal: 1
+Bucket: 1
+Rune Essence: 1
+Amulet of Glory: 1
+Explorer's Ring 3: 1
+Coins: 0
+Empty Pot: 0
+Jug of Vinegar: 0
+Bullseye Lantern: 0
+Logs: 0
+Rope: 0
+Tinderbox: 0
+Bucket of Milk: 1
+Cheese: 1
+Clean Kwuarm: 1
+Clean Marrentill: 1
+Coins: 1
+Empty Pot: 1
+Kitten: 1
+Cat: 1
+Red Spiders' Eggs: 1
+Tinderbox: 1
+Unicorn Horn Dust: 1
+Vial: 1
+Weeds: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Knife: 1
+Ring of Charos (a): 1
+Ring of Duelling: 1
+Waterskin: 1
+Anti-Dragon Shield: 1
+Asgarnian Ale: 1
+Ashes: 1
+Ball of Wool: 1
+Blue: 1
+Green: 1
+Purple: 1
+Bowl of Water: 1
+Bread: 1
+Bucket of Milk: 1
+Bucket: 1
+Jug: 1
+Bowl: 1
+Cake Tin: 1
+Charcoal: 1
+Coins: 1
+Dramen Staff: 1
+Egg: 1
+Eye of Newt: 1
+Fishbowl: 1
+Fishing Bait: 1
+Greenman's Ale: 1
+Hatchet: 1
+Ice Gloves: 1
+Iron Spit: 1
+Kitten: 1
+Pet Cat: 1
+Knife: 1
+Logs: 1
+M'speak amulet: 1
+Machete: 1
+Needle (cannot be on toolbelt): 1
+Ogre Arrows: 1
+Ogre Bellows: 1
+Ogre Bow: 1
+Orange: 1
+Pestle and Mortar: 1
+Pickaxe: 1
+Pineapple: 1
+Pot of Cream: 1
+Pot of Flour: 1
+Raw Chicken: 1
+Raw Cod: 1
+Rope: 1
+Rotten Tomato: 1
+Spice: 1
+Gnome Spice: 1
+Stew: 1
+Tinderbox: 1
+Antifire: 1
+Ice Gloves: 1
+Restore Potion: 1
+Ring of Charos (a): 1
+Ashes: 1
+Eye of Newt: 1
+Greenman's Ale: 1
+Knife: 1
+Orange: 1
+Pineapple: 1
+Rotten Tomato: 1
+Asgarnian Ale: 4
+Bowl of Water: 4
+Bucket of Milk: 4
+Coins: 4
+Egg: 4
+Pot of Flour: 4
+Ice Gloves: 1
+Ring of Charos (a): 1
+Blue: 1
+Green: 1
+Purple: 1
+Bread: 1
+Bucket: 1
+Jug: 1
+Bowl: 1
+Charcoal: 1
+Fishing Bait: 1
+Spice: 1
+Gnome Spice: 1
+Bread: 1
+Fishbowl: 1
+Knife: 1
+Needle (cannot be on toolbelt): 1
+Pestle and Mortar: 1
+Raw Cod: 1
+Bucket of Milk: 1
+Cake Tin: 1
+Egg: 1
+Pot of Flour: 1
+Kitten: 1
+Pet Cat: 1
+Stew: 1
+Ball of Wool: 1
+Hatchet: 1
+Iron Spit: 1
+Logs: 1
+Ogre Arrows: 1
+Ogre Bellows: 1
+Ogre Bow: 1
+Pickaxe: 1
+Tinderbox: 1
+Anti-Dragon Shield: 1
+Bucket of Milk: 1
+Dramen Staff: 1
+Ice Gloves: 1
+Machete: 1
+Pestle and Mortar: 1
+Pot of Cream: 1
+Raw Chicken: 1
+Antifire: 1
+Coins: 0
+Knife: 0
+M'speak amulet: 0
+Pestle and Mortar: 0
+Rope: 0
+Restore Potion: 5
+Arrows: 4
+Ball of Wool: 4
+Bow: 4
+Coal: 4
+Empty Pot: 4
+Hatchet: 4
+Limestone: 4
+Pestle and Mortar: 4
+Plank: 4
+Rope: 4
+Spade: 4
+Tinderbox: 4
+Agility Potion: 3
+Antipoison: 3
+Boots Of Lightness: 3
+Coins: 3
+Prayer Potion: 3
+Catspeak Amulet (e): 1
+Ring of Visibility: 1
+Rope: 1
+Spade: 1
+Antifire: 1
+Diamond Bolts (e): 1
+Book o' Piracy: 1
+Charcoal: 1
+Coins: 1
+Diving Apparatus: 1
+Ectotokens: 1
+Ring of Charos (a): 1
+Fishbowl Helmet: 1
+Ghostspeak Amulet: 1
+Hammer: 1
+Ectophial: 1
+Ring of Charos (a): 1
+Glarial's Amulet: 1
+Glarial's Pebble: 1
+Rope: 1
+Spade: 1
+Antipoison: 3
+Hatchet: 3
+Prayer Potion: 3
+Restore Potion: 3
+Saradomin Brew: 3
+Tinderbox: 3
+Coal: 5
+Antipoison: 1
+Bowl: 1
+Bucket: 1
+Rake: 1
+Seed Dibber: 1
+Slayer Gloves: 1
+Small Fishing Net: 1
+Body Rune: 5
+Emerald: 5
+Mind Rune: 5
+Pure Essence: 5
+Water Runes: 5
+Steam Runes: 5
+Binding Necklace: 1
+Fire Talisman: 1
+Pizzaz Points: 1
+Pure Essence: 1
+Water Talisman: 1
+Anti-Dragon Shield: 1
+Dusty Key: 1
+Antipoison: 2
+Swamp Paste: 1
+Ashes: 1
+Clean Tarromin: 1
+Coins: 1
+Hammer: 1
+Limestone: 1
+Limestone Bricks: 1
+Logs: 1
+Planks: 1
+Swamp Paste: 1
+Tinderbox: 1
+Vial of Water: 1
+Coins: 0
+Pestle and Mortar: 0
+Silver Bar: 0
+Silverlight: 0
+Vial: 0
+Waterskins: 0
+Enchanted Water Tiara: 0
+black outfit: 0
+Ring of Duelling: 1
+Coins: 0
+Plague Jacket: 0
+Plague Trousers: 0
+Energy Potions: >
+Coins: 0
+Bones: 3
+Bronze Bar: 3
+Candle: 3
+Chisel: 3
+Hammer: 3
+Rope: 3
+Spade: 3
+Tinderbox: 3
+Air Talisman: 1
+Air Tiara: 1
+Chisel: 1
+Commorb: 1
+Earth Talisman: 1
+Earth Tiara: 1
+Fire Talisman: 1
+Fire Tiara: 1
+Mind Talisman: 1
+Mind Tiara: 1
+Rune Essence: 1
+Swamp Paste: 1
+Water Talisman: 1
+Water Tiara: 1
+Amulet of Glory: 1
+Catspeak Amulet (e): 1
+Earmuffs: 1
+Face Mask: 1
+Ghostspeak Amulet: 1
+Kitten: 1
+Cat: 1
+Waterskin: 1
+Prayer Potion: 1
+Antipoison: 1
+Rope: 1
+Bones: 5
+Desert Wyrm Pouch: 5
+Ghostspeak Amulet: 5
+Hammer: 5
+Limpwurt Seed: 5
+Plank: 5
+Rake: 5
+Seed Dibber: 5
+Skull: 5
+Spade: 5
+Spirit Scorpion Pouch: 5
+Spirit Wolf Pouch: 5
+Steel Nails: 5
+Antipoison: 1
+Forinthry Brace: 1
+Plant Cure: 1
+Air Rune: 1
+Coins: 1
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Law Rune: 1
+Needle: 1
+Pickaxe: 1
+Rope: 1
+Shantay Pass: 1
+Thread: 1
+Waterskins: 1
+Enchanted Water Tiara: 1
+Arrows: 1
+Bow: 1
+Knife: 1
+Prayer Potion: 1
+Ring of Charos: 1
+Ring of Duelling: 1
+Ghostspeak Amulet: 1
+Hatchet: 1
+Pickaxe: 1
+Spade: 1
+Blue Charm: 1
+Tinderbox: 1
+Spotted Cape: 1
+Boots of Lightness: 1
+Energy Potion: 3
+Explorer's Ring 1: 3
+Games Necklace: 3
+Blood Rune: 5
+Bones: 5
+Coins: 5
+Empty Pot: 5
+Hammer: 5
+Iron Bar: 5
+Lava Rune: 5
+Logs: 5
+Mist Rune: 5
+Tinderbox: 5
+Amulet of Glory: 1
+Amulet of Glory: 1
+Boots Of Lightness: 1
+Combat Bracelet: 1
+Energy Potion: 1
+Explorer's Ring 3: 1
+Penance Gloves: 1
+Spirit Terrorbird Pouch: 1
+Spotted Cape: 1
+Tireless Run Scroll: 1
+Banana: 1
+Agility Potion: 1
+Jogre Bones: 1
+Karamja Rum: 1
+Knife: 1
+Pestle and Mortar: 1
+Seaweed: 1
+Small Fishing Net: 1
+Spear: 1
+Iron Spear: 1
+Black Spear: 1
+Bone Spear: 1
+Bucket of Milk: 1
+Chocolate Cake: 1
+Death Rune: 1
+Logs: 1
+Pet Cat: 1
+Kitten: 1
+Hellcat: 1
+Potato Seed: 1
+Rake: 1
+Seed Dibber: 1
+Shears: 1
+Tinderbox: 1
+Vial of Water: 1
+Coins: 0
+Desert Robe: 0
+Desert Shirt: 0
+Waterskin: 0
+Cosmic Rune: 8
+Hatchet: 8
+Sapphire: 8
+Pickaxe: 8
+Chisel: 8
+Water Rune: 8
+Desert Boots: 1
+Desert Robe: 1
+Desert Shirt: 1
+Energy Potion: 1
+Waterskin: 1
+Bullseye Lantern: 1
+Chisel: 1
+Pickaxe: 1
+Rope: 1
+Sapphire: 1
+Spiny Helmet: 1
+Tinderbox: 1
+Hammer: 1
+Rope: 1
+Spade: 1
+Anti-Dragon Shield: 1
+Coins: 1
+Ring of Charos (a): 1
+Knife: 1
+Candle: 1
+Seer's Headband 3: 1
+Limpwurt Root: 1
+Yew Shortbow: 1
+Yew Longbow: 1
+Magic Shortbow: 1
+Magic Longbow: 1
+Magic Comp Bow: 1
+Dark Bow: 1
+Prayer Potion: 3
+Spotted Cape: 3
+Boots of Lightness: 3
+Bow: 1
+Cake: 1
+Coins: 1
+Flowers: 1
+Ring: 1
+Harpoon: 1
+Hatchet: 1
+Iron Bar: 1
+Lobster Pot: 1
+Logs: 1
+Pickaxe: 1
+Chisel: 1
+Hammer: 1
+Oak Plank: 1
+Rune Pickaxe: 1
+Amulet of Glory: 1
+Bronze Bar: 3
+Coins: 3
+Desert Robe: 3
+Desert Shirt: 3
+Feather: 3
+Hammer: 3
+Knife: 3
+Waterskin: 3
+Enchanted Water Tiara: 3
+Feathers: 1
+Lobster: 1
+Ring of Duelling: 1
+Beer: 1
+Binding Fluid: 1
+Builder's Boots: 1
+Builder's Shirt: 1
+Builder's Trousers: 1
+Coloured Ball: 1
+Hammer: 1
+Hard Hat: 1
+Metal Bar: 1
+Metal Sheet: 1
+Pipe: 1
+Pipe Ring: 1
+Rivets: 1
+Saw: 1
+Saw: 1
+Crystal Saw: 1
+Valve Wheel: 1
+Logs: 6
+Prayer Potion: 2
+Bucket: 1
+Cake Tin: 1
+Climbing Boots: 1
+Insect Repellent: 1
+Iron Bar: 1
+Maple Log: 1
+Yew Log: 1
+Rope: 1
+Swamp Tar: 1
+Climbing Boots: 1
+Arrows: 1
+Bow: 1
+Bucket: 1
+Plank: 1
+Rope: 1
+Spade: 1
+Tinderbox: 1
+Zamorak Robe (bottom): 1
+Zamorak Robe (top): 1
+Agility Potion: 4
+Summer Pie: 4
+Coins: 4
+Super Energy Potion: 4
+Beer: 1
+Garlic: 1
+Stake: 1
+Pickaxe: 1
+Spade: 1
+Hammer: 1
+Hard Leather: 1
+Limestone Brick: 1
+Logs: 1
+Tinderbox: 1
+Coins: 0
+Law Rune: 0
+Enchanted Gem: 0
+Molten Glass: 0
+Rune Essence: 0
+Amulet of Glory: 1
+Candle: 1
+Clean Guam: 1
+Coins: 1
+Death Rune: 1
+Dragon Bones: 1
+Gold Bar: 1
+Jangerberries: 1
+Pestle and Mortar: 1
+Pickaxe: 1
+Rope: 1
+Vial of Water: 1
+Anti-Dragon Shield: 1
+Antifire Potion: 1
+Ring of Duelling: 1
+Air Rune: 6
+Earth Rune: 6
+Rope: 6
+Water Rune: 6
+Games Necklace: 1
+Bowl: 1
+Bronze Pickaxe: 1
+Chaos Runes: 1
+Pure Essence: 1
+Amulet of Glory: 1
+Chaos Tiara: 1
+Chaos Talisman: 1
+Falador: >
+Varrock: >
+Rimmington: >
+5000gp: 3
+Ring of Charos(a): 3
+Air Rune: 3
+Air: 3
+Earth: 3
+Water: 3
+Fire: 3
+Mind Rune: 3
+Astral Runes: 3
+Bronze Med Helm: 3
+Charcoal: 3
+Chisel: 3
+Cosmic Rune: 3
+Death Rune: 3
+Druid Pouch: 3
+Hammer: 3
+Iron Chainbody: 3
+Knife: 3
+Lantern Lens: 3
+Law Rune: 3
+Lobster: 3
+Logs: 3
+Papyrus: 3
+Pink Dye: 3
+Restore Potion (4): 3
+Sapphire Lantern: 3
+Seed Dibber: 3
+Silver Sickle (b): 3
+Snapdragon Seed: 3
+28,875gp: 3
+Spade: 3
+Unpowered Orb: 3
+Prayer Potions: >
+Super Restore Potions: >
+Cheese: 1
+Gloves: 1
+Mime Gloves: 1
+Ice Gloves: 1
+Falador Teleport: 1
+Games Necklace: 1
+Combat Bracelet: 1
+Crystal Trinket: 1
+Hatchet: 1
+Knife: 1
+Mourner Boots: 1
+Mourner Cloak: 1
+Mourner Gloves: 1
+Mourner Top: 1
+Mourner Trousers: 1
+Great Orb Project: 1
+Death Talisman: 1
+Death Tiara: 1
+Omni-Talisman: 1
+Omni-Talisman Staff: 1
+Omni-Tiara: 1
+Monkfish: 1
+Prayer Potion: 1
+Tiny Elf Crystal: 1
+Achey Tree Logs: 1
+Bow String: 1
+Charcoal: 1
+Clean Snake Weed: 1
+Feather: 1
+Hammer: 1
+Hatchet: 1
+Nails: 1
+Papyrus: 1
+Prayer Potion: 1
+Wolf Bones: 1
+Papyrus + extras: 1

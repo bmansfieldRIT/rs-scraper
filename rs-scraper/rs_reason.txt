@@ -1,0 +1,6 @@
+make program to scrape rs wiki for required items for quests, get frequency etc. stats, make an optimal adventuring inventory/armor
+take armor/food need to kill monsters into account
+make graphs for: # of qp vs how many quests you can do, $money needed vs how many quests you can do, every skill level vs how many quests you can do,
+estimated shortest time vs longest time to complete all quests
+total xp/moneyrewards
+top 5-10 quests that unlock the most quests
